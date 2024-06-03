@@ -19,9 +19,9 @@ If you input the account number and password, the attackers then successfully co
 ## DRAW BACKS OF THE EXISTING SYSTEM :
 - Phishing is one of the major threats in this internet era. Phishing is a smart process where a legitimate website is cloned and victims are lured to the fake website to provide their personal as well as confidential information, sometimes it proves to be costly.
   
-- Though most of the websites will give a disclaimer warning to the users about phishing, users tend to neglect it.
+- Though most of the websites will give a disclaimer warning to the users about phishing, users are tend to neglect it.
   
-- It is not a fully responsible action by the websites also and there is not much that the websites could really do about it.
+- It is not a full responsible action by the websites and also there is not much that the websites could really do anything about it.
   
 - Since phishing has been in persistence for a long time, many approaches have been proposed in past that can detect phishing websites but very few or none of them detect the target websites for these phishing attacks, accurately.
 
