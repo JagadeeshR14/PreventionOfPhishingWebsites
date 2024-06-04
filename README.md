@@ -34,7 +34,7 @@ If you input the account number and password, the attackers then successfully co
 1. **PROCESSOR	  :**	Dual Core and above
 2. **HARD DISK	  :**	256 GB
 3. **RAM  		  :**	2 GB
-4. **MONITOR	  :**	15” Color Monitor 
+4. **MONITOR	  :**	Normal sized Color Monitor 
 5. **KEYBOARD	  :**	104 keys Standard Keyboard
 6. **MOUSE		  :**	Standard 3 Button Mouse
 
